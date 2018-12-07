@@ -1,0 +1,9 @@
+C:\Users\kinder\Desktop\TryCoordinate\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\kinder\Desktop\TryCoordinate\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\kinder\Desktop\TryCoordinate\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\kinder\Desktop\TryCoordinate\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kinder\Desktop\TryCoordinate\UnitTests\bin\Debug\TryCoordinate.exe
+C:\Users\kinder\Desktop\TryCoordinate\UnitTests\bin\Debug\TryCoordinate.pdb
+C:\Users\kinder\Desktop\TryCoordinate\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\kinder\Desktop\TryCoordinate\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\kinder\Desktop\TryCoordinate\UnitTests\obj\Debug\UnitTests.pdb

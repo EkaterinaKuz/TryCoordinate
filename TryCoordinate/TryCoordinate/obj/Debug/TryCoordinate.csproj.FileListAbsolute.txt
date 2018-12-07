@@ -1,0 +1,6 @@
+C:\Users\kinder\Desktop\TryCoordinate\TryCoordinate\bin\Debug\TryCoordinate.exe.config
+C:\Users\kinder\Desktop\TryCoordinate\TryCoordinate\obj\Debug\TryCoordinate.csprojResolveAssemblyReference.cache
+C:\Users\kinder\Desktop\TryCoordinate\TryCoordinate\bin\Debug\TryCoordinate.exe
+C:\Users\kinder\Desktop\TryCoordinate\TryCoordinate\bin\Debug\TryCoordinate.pdb
+C:\Users\kinder\Desktop\TryCoordinate\TryCoordinate\obj\Debug\TryCoordinate.exe
+C:\Users\kinder\Desktop\TryCoordinate\TryCoordinate\obj\Debug\TryCoordinate.pdb
